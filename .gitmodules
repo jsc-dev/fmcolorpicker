@@ -1,0 +1,3 @@
+[submodule "design/standard/javascript/mColorPicker"]
+	path = design/standard/javascript/mColorPicker
+	url = git://github.com/meta100/mColorPicker
